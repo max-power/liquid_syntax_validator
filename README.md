@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    class Template
+      include ActiveModel::Model
+      attr_accessor :content
+      
+      validates :content, liquid_syntax: true
+    end
 
 ## Contributing
 
