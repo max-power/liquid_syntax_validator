@@ -1,4 +1,3 @@
-require "liquid_syntax_validator/version"
 require "active_model/validator"
 
 class LiquidSyntaxValidator < ActiveModel::EachValidator
