@@ -1,6 +1,6 @@
 # LiquidSyntaxValidator
 
-TODO: Write a gem description
+Simple ActiveModel Liquid syntax validation.
 
 ## Installation
 
